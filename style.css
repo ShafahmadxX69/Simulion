@@ -1,0 +1,7 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #f4f4f4; }
+#form-container { padding: 10px; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.2); position: absolute; top: 10px; left: 10px; z-index: 1; }
+label { display: block; margin-top: 5px; font-weight: bold; }
+input, select, button { width: 100%; margin-top: 3px; padding: 5px; }
+button { background: #28a745; color: white; border: none; cursor: pointer; margin-top: 10px; }
+button:hover { background: #218838; }
+#three-container { width: 100%; height: 100vh; }
